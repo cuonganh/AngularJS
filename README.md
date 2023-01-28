@@ -1,3 +1,4 @@
 # AngularJS
 AngularJS tutorial
-This project will contain everything about AngularJS
+
+    This project will contain everything about AngularJS
